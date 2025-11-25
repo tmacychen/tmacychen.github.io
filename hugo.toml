@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
-title = "Universal"
-author = "Your Name"
-copyright = "Copyright © 2025 Your Name"
+title = "开源社区"
+author = "开源社区"
+copyright = "Copyright © 2025 开源社区"
 
 languageCode = 'zh-cn'
 timeZone = 'Etc/UTC'
@@ -33,10 +33,10 @@ priority = 0.5
 
 [params]
 viewMorePostLink = "/blog/"
-author = "Your Name"
-defaultKeywords = ["hugo", "universal", "theme"]
+author = "开源社区"
+defaultKeywords = ["开源", "社区", "软件开发", "技术分享"]
 mainSections = ["blog"]
-defaultDescription = "使用Hugo Universal主题构建的网站"
+defaultDescription = "一个致力于开源技术分享和社区建设的平台"
 
 # Social media
 facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
@@ -51,7 +51,7 @@ latitude = ""
 longitude = ""
 
 # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-style = "default"
+style = "blue"
 
 # Since this template is static, the contact form uses www.formspree.io as a
 # proxy. The form makes a POST request to their servers to send the actual
@@ -87,8 +87,8 @@ contact_form_ajax = false
 enableRecaptchaInContactForm = false
 googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-about_us = "<p>这是关于我们的页面内容。</p>"
-copyright = "Copyright (c) 2025, YourCompany; all rights reserved."
+about_us = "<p>我们是一个致力于开源技术分享和社区建设的平台。我们相信开源的力量，致力于推动开源技术的发展和普及，为开发者提供一个交流和学习的环境。</p>"
+copyright = "Copyright (c) 2025, 开源社区; all rights reserved."
 
 # Format dates with Go's time formatting
 date_format = "2006年1月2日"
@@ -96,18 +96,18 @@ date_format = "2006年1月2日"
 dropdown_mouse_over = false
 
 disabled_logo = false
-logo_text = "Universal"
+logo_text = "开源社区"
 
 logo = "img/logo.png"
 logo_small = "img/logo-small.png"
 contact_url = "/contact"
-address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
-    <br>13/25 New Avenue
-    <br>Newtown upon River
-    <br>45Y 73J
-    <br>England
+address = """<p class="text-uppercase"><strong>开源社区</strong>
+    <br>中国开源技术发展中心
+    <br>北京市海淀区开源路123号
+    <br>100000
+    <br>中国
     <br>
-    <strong>Great Britain</strong>
+    <strong>开源社区</strong>
   </p>
   """
 
@@ -117,9 +117,8 @@ blog = "/blog/:year/:month/:day/:contentbasename/"
 # Enable or disable top bar with social icons
 [params.topbar]
 enable = true
-text = """<p class="hidden-sm hidden-xs">通过 +86 138 0000 0000 或 hello@universal.com 联系我们。</p>
-  <p class="hidden-md hidden-lg"><a href="tel:+86 138 0000 0000" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-  <a href="mailto:hello@universal.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+text = """<p class="hidden-sm hidden-xs">通过 <a href="mailto:contact@opensources.org">contact@opensources.org</a> 联系我们。</p>
+  <p class="hidden-md hidden-lg"><a href="mailto:contact@opensources.org" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
   </p>
   """
 
@@ -196,7 +195,7 @@ enable = true
 languageName = "中文"
 languageCode = "zh"
 weight = 2
-title = "Universal"
+title = "开源社区"
 
 [[languages.zh.menu.main]]
 name = "首页"
@@ -224,6 +223,24 @@ weight = 4
 
 [[languages.zh.menu.topbar]]
 weight = 1
-name = "电话"
-url = "tel:+86 138 0000 0000"
-pre = "<i class='fas fa-2x fa-phone'></i>"
+name = "GitHub"
+url = "https://github.com/opensources"
+pre = "<i class='fab fa-2x fa-github'></i>"
+
+[[languages.zh.menu.topbar]]
+weight = 2
+name = "Gitee"
+url = "https://gitee.com/opensources"
+pre = "<i class='fab fa-2x fa-git-square'></i>"
+
+[[languages.zh.menu.topbar]]
+weight = 3
+name = "微博"
+url = "https://weibo.com/opensources"
+pre = "<i class='fab fa-2x fa-weibo'></i>"
+
+[[languages.zh.menu.topbar]]
+weight = 4
+name = "邮箱"
+url = "mailto:contact@opensources.org"
+pre = "<i class='fas fa-2x fa-envelope'></i>"

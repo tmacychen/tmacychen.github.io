@@ -1,11 +1,11 @@
 weight: 2
-title: "46 HTML pages full of features"
+title: "丰富的开源功能特性"
 description: >
   <ul class="list-style-none">
-     <li>Sliders and carousels</li>
-     <li>4 Header variations</li>
-     <li>Google maps, Forms, Megamenu, CSS3 Animations and much more</li>
-     <li>+ 11 extra pages showing template features</li>
+     <li>滑块和轮播组件</li>
+     <li>4种头部变体</li>
+     <li>Google地图、表单、大菜单、CSS3动画等更多功能</li>
+     <li>+ 11个额外页面展示模板特性</li>
    </ul>
 image: "img/carousel/template-mac.png"
 href: "faq"

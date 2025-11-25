@@ -1,10 +1,10 @@
 weight: 3
-title: "Design"
+title: "开源设计原则"
 description: >
   <ul class="list-style-none">
-    <li>Clean and elegant design</li>
-    <li>Full width and boxed mode</li>
-    <li>Easily readable Roboto font and awesome icons</li>
-    <li>7 preprepared colour variations</li>
+    <li>简洁优雅的设计风格</li>
+    <li>响应式布局适配各种设备</li>
+    <li>清晰易读的开源字体</li>
+    <li>多种配色方案可选</li>
   </ul>
 image: "img/carousel/template-easy-customize.png"
