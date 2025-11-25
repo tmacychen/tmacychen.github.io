@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ens on Universal</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content in Ens on Universal</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <copyright>Copyright © 2025 Your Name</copyright>
+    <lastBuildDate>Tue, 25 Nov 2025 18:35:34 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog Post</title>
+      <link>http://localhost:1313/en/blog/first-post/</link>
+      <pubDate>Tue, 25 Nov 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/en/blog/first-post/</guid>
+      <description>&lt;h1 id=&#34;my-first-blog-post&#34;&gt;My First Blog Post&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to our blog! This is the first post created with the Hugo Universal theme.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-hugo&#34;&gt;Why Hugo?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; is a fast and modern static site generator written in Go. It has the following advantages:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Extremely fast build speed&lt;/li&gt;&#xA;&lt;li&gt;Easy to use&lt;/li&gt;&#xA;&lt;li&gt;Powerful templating features&lt;/li&gt;&#xA;&lt;li&gt;Rich theme ecosystem&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;why-universal-theme&#34;&gt;Why Universal Theme?&lt;/h2&gt;&#xA;&lt;p&gt;The Universal theme is a feature-rich, responsive Hugo theme with the following features:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Modern design&lt;/li&gt;&#xA;&lt;li&gt;Multi-language support&lt;/li&gt;&#xA;&lt;li&gt;Responsive layout&lt;/li&gt;&#xA;&lt;li&gt;Rich components and page templates&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hope you enjoy this theme!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

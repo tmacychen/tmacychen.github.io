@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on Universal</title>
+    <link>http://localhost:1313/categories/general/</link>
+    <description>Recent content in General on Universal</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <copyright>Copyright © 2025 Your Name</copyright>
+    <lastBuildDate>Tue, 25 Nov 2025 18:01:49 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/general/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/post/first-post/</link>
+      <pubDate>Tue, 25 Nov 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/first-post/</guid>
+      <description>&lt;h1 id=&#34;my-first-post&#34;&gt;My First Post&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to my new website! This is the first post on my blog.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-hugo&#34;&gt;Why Hugo?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; is a fast and modern static site generator written in Go, and designed to make website creation fun again.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-bootstrap&#34;&gt;Why Bootstrap?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://getbootstrap.com/&#34;&gt;Bootstrap&lt;/a&gt; is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.&lt;/p&gt;&#xA;&lt;p&gt;Together, Hugo and Bootstrap make a powerful combination for creating beautiful, fast websites.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>我的第一篇文章</title>
+      <link>http://localhost:1313/zh/post/first-post/</link>
+      <pubDate>Tue, 25 Nov 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/post/first-post/</guid>
+      <description>&lt;h1 id=&#34;我的第一篇文章&#34;&gt;我的第一篇文章&lt;/h1&gt;&#xA;&lt;p&gt;欢迎来到我的新网站！这是我的博客第一篇文章。&lt;/p&gt;&#xA;&lt;h2 id=&#34;为什么选择hugo&#34;&gt;为什么选择Hugo？&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; 是一个快速且现代化的静态网站生成器，使用Go语言编写，旨在让网站创建变得有趣。&lt;/p&gt;&#xA;&lt;h2 id=&#34;为什么选择bootstrap&#34;&gt;为什么选择Bootstrap？&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://getbootstrap.com/&#34;&gt;Bootstrap&lt;/a&gt; 是最流行的HTML、CSS和JS框架，用于开发响应式、移动优先的项目。&lt;/p&gt;&#xA;&lt;p&gt;Hugo和Bootstrap结合使用，可以创建出美观、快速的网站。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

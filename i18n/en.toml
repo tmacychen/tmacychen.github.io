@@ -1,0 +1,41 @@
+[home]
+other = "Home"
+
+[about]
+other = "About"
+
+[blog]
+other = "Blog"
+
+[contact]
+other = "Contact"
+
+[readMore]
+other = "Read More"
+
+[previous]
+other = "Previous"
+
+[next]
+other = "Next"
+
+[postedOn]
+other = "Posted on"
+
+[by]
+other = "by"
+
+[categories]
+other = "Categories"
+
+[tags]
+other = "Tags"
+
+[search]
+other = "Search"
+
+[language]
+other = "Language"
+
+[switchTo]
+other = "Switch to"
