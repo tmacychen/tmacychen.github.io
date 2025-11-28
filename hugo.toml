@@ -112,7 +112,7 @@ address = """<p class="text-uppercase"><strong>开源社区</strong>
   """
 
 [permalinks]
-blog = "/blog/:year/:month/:day/:contentbasename/"
+blog = "/blog/:year/:month/:day/:contentbasename"
 
 # Enable or disable top bar with social icons
 [params.topbar]
