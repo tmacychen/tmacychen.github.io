@@ -168,9 +168,9 @@ subtitle = "我们与许多客户合作过，我们总是喜欢听到他们对�
 enable = true
 icon = "far fa-file-alt"
 title = "想看更多吗？"
-subtitle = "我们为您准备了40多个不同的HTML页面，包括5种主页变体。"
-link_url = "#"
-link_text = "查看更多主页"
+subtitle = "我们提供了多篇博客，请查看。"
+link_url = "/blog"
+link_text = "查看更多"
 
 [params.clients]
 enable = true
@@ -180,14 +180,14 @@ enable = true
 title = "我们的客户"
 subtitle = ""
 
-[params.recent_posts]
-enable = true
-title = "来自我们的博客"
-subtitle = " Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
-hide_summary = false
+# [params.recent_posts]
+# enable = true
+# title = "来自我们的博客"
+# subtitle = " Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+# hide_summary = false
 
-[params.footer.recent_posts]
-enable = true
+# [params.footer.recent_posts]
+# enable = true
 
 
 
@@ -227,20 +227,20 @@ name = "GitHub"
 url = "https://github.com/opensources"
 pre = "<i class='fab fa-2x fa-github'></i>"
 
+# [[languages.zh.menu.topbar]]
+# weight = 2
+# name = "Gitee"
+# url = "https://gitee.com/opensources"
+# pre = "<i class='fab fa-2x fa-git-square'></i>"
+
+# [[languages.zh.menu.topbar]]
+# weight = 3
+# name = "微博"
+# url = "https://weibo.com/opensources"
+# pre = "<i class='fab fa-2x fa-weibo'></i>"
+
 [[languages.zh.menu.topbar]]
 weight = 2
-name = "Gitee"
-url = "https://gitee.com/opensources"
-pre = "<i class='fab fa-2x fa-git-square'></i>"
-
-[[languages.zh.menu.topbar]]
-weight = 3
-name = "微博"
-url = "https://weibo.com/opensources"
-pre = "<i class='fab fa-2x fa-weibo'></i>"
-
-[[languages.zh.menu.topbar]]
-weight = 4
 name = "邮箱"
 url = "mailto:contact@opensources.org"
 pre = "<i class='fas fa-2x fa-envelope'></i>"
