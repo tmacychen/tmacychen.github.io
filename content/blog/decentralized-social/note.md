@@ -4,6 +4,7 @@ date: 2025-12-06T22:01:13+08:00
 tags: ["去中心化", "社交网络", "商业策划"]
 categories: ["商业策划"]
 author: "陈宇"
+banner: "img/banners/banner-2.jpg"
 ---
 
 # 痛点与机遇
