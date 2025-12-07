@@ -4,7 +4,7 @@ date: 2025-11-29T13:00:00+08:00
 tags: ["Rust", "Robius"]
 categories: ["技术"]
 author: "陈宇"
-banner: "img/banners/banner-1.jpg"
+banner: "img/banners/robius.png"
 ---
 
 # Robius

@@ -4,8 +4,11 @@ id = "contact"
 type = "page"
 +++
 
-# We are here to help you
+# 我们可以帮助你
 
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+我们是一个致力于开源技术分享和社区建设的平台。我们相信开源的力量，致力于推动开源技术的发展和普及，为开发者提供交流和学习的平台。
+请联系我们：
 
-Please feel free to contact us, our customer service center is working for you 24/7.
+- 电话：400-xxx-xxxx
+- 邮箱：opensource@email.com
+
